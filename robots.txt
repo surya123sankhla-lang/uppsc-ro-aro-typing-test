@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://surya123sankhla-lang.github.io/uppsc-ro-aro-typing-test/sitemap.xml
